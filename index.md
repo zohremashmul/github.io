@@ -1,13 +1,12 @@
 
-### Melika Zamanzadeh
-<a href="https://uupload.ir/" target="_blank"><img src="https://uupload.ir/files/psld_showstdpic.gif" border="0" alt="آپلود عکس" /></a>
-
+### Zohreh Mashmul
+<a href="https://uupload.ir/" target="_blank"><img src="https://uupload.ir/files/i4y_73558433(2).jpg" border="0" alt="آپلود عکس" /></a>
 ### Personal informations
 
 ---
-+ name: Melika
-+ last name :zamanzadeh
-+ Date of birth : 1997/sep/8
++ name: zohreh
++ last name :mashmul
++ Date of birth : 1998/Aug/11
 +  Computer engineering student
 + location : Tehran , I.R.Iran
 
@@ -15,19 +14,16 @@
 ### Skill Highlights
 
 ---
-+ accountant
-+ store software
-+ web design
-+ programming
++ ICDL
 + java script
 
 ### Education
 
 ---
-+ Diploma : hananeh school
-_ 2015
++ Diploma : Farhang school
+_ 2016
 + Bachelor of science : computer Engineering
-_ 2016,payam Noor University of parand 
+_ 2018,payam Noor University of parand 
 
 ### Favorites
 
@@ -40,10 +36,10 @@ _ 2016,payam Noor University of parand
 ### working Experience
 
 ---
-+ store IT expert
-+ car dealership accounting
++ marketer
++ caffeine
 
-### [contact with me](melikaa.zamanzade@gmail.com)
+### [contact with me](zohremashmul@gmail.com)
 
 
 --- 
